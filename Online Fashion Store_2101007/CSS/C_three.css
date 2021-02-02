@@ -1,0 +1,55 @@
+body
+{
+	background: #0099ff;
+}
+p
+{
+	background: #cccccc;
+	font-size: 25px;
+	font-family: Algerian;
+}
+h4
+{
+	background: #cccccc;
+	font-family:verdana;
+}
+img
+{
+	border-color: black;
+	border-radius: 5px;
+	border: 10px solid;
+}
+
+tr
+{
+	background: #e6e6e6;
+}
+input#S1
+{
+	background-color: #006666;
+	color: white; 
+	border-radius: 3px;
+}
+
+input#S2
+{
+	background-color: #669900;
+	color: white; 
+	border-radius: 3px;
+}
+
+input#S3
+{
+	background-color: #339966;
+	color: white; 
+	border-radius: 3px;
+}
+
+input#S5
+{
+	background-color: #990000;
+	color: white; 
+	border-radius: 3px;
+}
+
+

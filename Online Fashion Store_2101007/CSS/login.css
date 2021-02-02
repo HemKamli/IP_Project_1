@@ -1,0 +1,78 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+body
+{
+  background: #ff9900;
+}
+.Loginpage-form
+{
+  font-size: 30px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-65%);
+  width: 100%;
+  padding: 30px;
+}
+
+.form
+{
+  margin-top: 220px; 
+  margin-left: 420px;
+  border-radius: 10px;
+  padding: 15px;
+  max-width: 500px;
+  background: #000080;
+  opacity: 70%;
+}
+
+.title
+{
+  margin-top: 35px;
+  font-size: 50px;
+  color: black;
+  border-style: dashed;
+  border-width: 5px;
+  font-family: Algerian;
+}
+
+input
+{
+  color: white;
+  padding:0;
+  font-size: 20px;
+  padding: 10px;
+  background: transparent;
+  border: 5px solid;
+  width: 70%;
+  border-radius: 10px;
+  border-top-style: none;
+  border-left-style: none;
+  border-right-style: none;
+}
+.submit
+{
+  text-align: center;
+  background: #1bb32a;
+  font-size: 30px;
+  padding:5px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  width: 40%;
+}
+.reset
+{
+  text-align: center;
+  background: red;
+  font-size: 30px;
+  padding:5px;
+  color: white;
+  border-radius: 5px;
+  border: none;
+  width: 40%;
+}
